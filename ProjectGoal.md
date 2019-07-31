@@ -3,8 +3,8 @@ The Anti "Catch Me If You Can". To identify fraudlant banking activity as it hap
 
 # Datasets
 - Chicago Crime Data Sets: 
-https://www.kaggle.com/ntnu-testimon/paysim1
-Includes:
+https://www.kaggle.com/ntnu-testimon/paysim1    
+Includes:    
     <strong>step</strong>
     <em>Maps a unit of time in the real world. In this case 1 step is 1 hour of time.</em>
     
