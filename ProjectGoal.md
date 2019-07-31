@@ -3,13 +3,40 @@ The Anti "Catch Me If You Can". To identify fraudlant banking activity as it hap
 
 # Datasets
 - Chicago Crime Data Sets: 
-https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
+https://www.kaggle.com/ntnu-testimon/paysim1
 Includes:
-    - Block
-    - Location
-    - Type of Crime
-    - Description
-    - Time 
+    <strong>step</strong>
+    <em>Maps a unit of time in the real world. In this case 1 step is 1 hour of time.</em>
+    
+    <strong>type</strong>
+    <em>CASH-IN, CASH-OUT, DEBIT, PAYMENT and TRANSFER</em>
+    
+    <strong>amount</strong>
+    <em>amount of the transaction in local currency</em>
+    
+    <strong>nameOrig</strong>
+    <em>customer who started the transaction</em>
+    
+    <strong>oldbalanceOrg</strong>
+    <em>initial balance before the transaction</em>
+    
+    <strong>newbalanceOrig</strong>
+    <em>customer's balance after the transaction.</em>
+    
+    <strong>nameDest</strong>
+    <em>recipient ID of the transaction.</em>
+    
+    <strong>oldbalanceDest</strong>
+    <em>initial recipient balance before the transaction.</em>
+    
+    <strong>newbalanceDest</strong>
+    <em>recipient's balance after the transaction.</em>
+    
+    <strong>isFraud</strong>
+    <em>identifies a fraudulent transaction (1) and non fraudulent (0)</em>
+    
+    <strong>isFlaggedFraud</strong>
+    <em>flags illegal attempts to transfer more than 200.000 in a single transaction.</em>
 
 - Weather in Chicago: NOAA will provide data from stations in Chicago on a daily basis for free.
 https://www.ncdc.noaa.gov/cdo-web/. This includes primarily temperature maxs and mins. Most of the other fields are missing.
