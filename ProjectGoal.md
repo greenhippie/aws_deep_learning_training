@@ -2,7 +2,7 @@
 The Anti "Catch Me If You Can". To identify fraudlant banking activity as it happens and minimize the effect of identity theft on individuals. 
 
 # Datasets
-- Paysim synthetic dataset of mobile money transactions. Each step represents an hour of simulation. This dataset is scaled down 1/4 of the original dataset which is presented in the paper "PaySim: A financial mobile money simulator for fraud detection". Includes: 
+- Paysim synthetic dataset of mobile money transactions. Each step represents an hour of simulation. This dataset is scaled down 1/4 of the original dataset which is presented in the paper "PaySim: A financial mobile money simulator for fraud detection": 
 https://www.kaggle.com/ntnu-testimon/paysim1    
 Includes:    
     <strong>step</strong>
