@@ -1,8 +1,5 @@
-TODO: Update this
-
-
-# Chicago-Crime
-The Anti "Minority Report". To prevent criminal activity before it happens and save lives on both sides of the event. 
+# Banking-Fraud
+The Anti "Catch Me If You Can". To identify fraudlant banking activity as it happens and minimize the effect of identity theft on individuals. 
 
 # Datasets
 - Chicago Crime Data Sets: 
