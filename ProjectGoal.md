@@ -42,4 +42,4 @@ Includes:
 - Break up events into types of transactions. These are as follows. Each new record will be cross-referenced against a multi-class classification model that predicts each nameOrig for it's likelihood of having fraudulant activity.
   
 # End Goal
-
+Evaluate AWS SageMaker (with XGBoost) classification performance.
