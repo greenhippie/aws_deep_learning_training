@@ -4,4 +4,5 @@ https://github.com/awslabs/amazon-sagemaker-examples/tree/master/introduction_to
 
 
 # Project Goal
-TODO
+Evaluate AWS SageMaker (with XGBoost) classification performance.
+
