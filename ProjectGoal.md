@@ -36,7 +36,7 @@ Includes:
     <em>identifies a fraudulent transaction (1) and non fraudulent (0)</em>
     
     <strong>isFlaggedFraud</strong>
-    <em>flags illegal attempts to transfer more than 200.000 in a single transaction.</em>
+    <em>flags illegal attempts to transfer more than 200,000 in a single transaction.</em>
 
 # Modeling Strategy
 - Break up events into types of transactions. These are as follows. Each new record will be cross-referenced against a multi-class classification model that predicts each nameOrig for it's likelihood of having fraudulant activity.
